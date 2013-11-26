@@ -1,7 +1,9 @@
 Paribus Templates
 =========
 
-This is a public repository of templates for [Paribus Calculator](http://www.paribuscalc.com/?source=github/paribus_templates).
+This is a public repository of templates for [Paribus Calculator](http://www.paribuscalc.com/?source=github/paribus_templates). 
+
+Published templates can be found here: <http://paribuscalc.github.io/templates/>
 
 <img src="session.png" width=320>
 
@@ -44,4 +46,11 @@ The file consists of name/value pairs, one per line, that are basically instruct
 `v1.label` sets the row label to `Total`
 
 `v1.focus` tells the UI to focus on `v1` to prompt data entry by the user.
+
+Installing
+===========
+
+Templates can be install via the iTunes document interface. Connect your phone to iTunes and drag files into the `Templates` folder in Paribus.
+
+You can also install template files using the URL scheme: `paribus://addtemplate/<url>` where `<url>` is an `http:` or `https:` URL to a `.botn` file. Paribus will download the file and copy it into the `Templates` folder.
 
