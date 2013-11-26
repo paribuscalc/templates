@@ -40,11 +40,13 @@ Here is an example template:
 
 The file consists of name/value pairs, one per line, that are basically instructions to the calculator.
 
-`v1` sets the value of `v1`. You may include a simple value or an equation.
+`v1` sets the value of `v1`. You may include a simple value or an equation. The number indicates the row. 
 
 `v1.label` sets the row label to `Total`
 
 `v1.focus` tells the UI to focus on `v1` to prompt data entry by the user.
+
+`c1v3` sets the value of column 1 row 3. You can omit the column prefix to imply column 1.
 
 Installing
 ===========
