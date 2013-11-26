@@ -1,0 +1,60 @@
+title:Big Tipper
+v1.label:Total
+v1:$11
+v2.label:15%
+v2:v1 * 15%
+v3.label:18%
+v3:v1 * 18%
+v4.label:20%
+v4:v1 * 20%
+v5.label:21%
+v5:v1  * 21%
+v6.label:22%
+v6:v1  * 22%
+v7.label:23%
+v7:v1  * 23%
+v8.label:24%
+v8:v1  * 24%
+v9.label:25%
+v9:v1  * 25%
+v10.label:26%
+v10:v1  * 26%
+v11.label:27%
+v11:v1  * 27%
+v12.label:28%
+v12:v1  * 28%
+v13.label:29%
+v13:v1  * 29%
+v14.label:30%
+v14:v1  * 30%
+v15.label:31%
+v15:v1  * 31%
+v16.label:32%
+v16:v1  * 32%
+v17.label:33%
+v17:v1  * 33%
+v18.label:34%
+v18:v1  * 34%
+v19.label:35%
+v19:v1  * 35%
+v20.label:36%
+v20:v1  * 36%
+c2v1:$previous+1
+c3v1:$previous+1
+c4v1:$previous+1
+c5v1:$previous+1
+c6v1:$previous+1
+c7v1:$previous+1
+c8v1:$previous+1
+c9v1:$previous+1
+c10v1:$previous+1
+c11v1:$previous+1
+c12v1:$previous+1
+c13v1:$previous+1
+c14v1:$previous+1
+c15v1:$previous+1
+c16v1:$previous+1
+c17v1:$previous+1
+c18v1:$previous+1
+c19v1:$previous+1
+c20v1:$previous+1
