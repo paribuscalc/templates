@@ -1,11 +1,11 @@
-<img style="float:right" src="session.png" width=320>
-
 Paribus Templates
 =========
 
 This is a public repository of templates for [Paribus Calculator](http://www.paribuscalc.com/?source=github/paribus_templates). 
 
 Published templates can be found here: <http://paribuscalc.github.io/templates/>
+
+<img src="session.png" width=320>
 
 This project allows you contribute to the Paribus community.
 
@@ -16,8 +16,6 @@ This project allows you contribute to the Paribus community.
 Thank you for your help making Paribus better for everyone.
 
 You may contact <support@paribuscalc.com> with questions.
-
-<br clear="all">
 
 File Format
 ===========
